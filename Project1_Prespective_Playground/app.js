@@ -5,9 +5,9 @@ Vue.createApp({
             rotateX: 0,
             rotateY: 0,
             rotateZ: 0,
-            red: 120,
-            green: 120,
-            blue: 120
+            red: 141,
+            green: 129,
+            blue: 243
         }
     },
     computed: {
