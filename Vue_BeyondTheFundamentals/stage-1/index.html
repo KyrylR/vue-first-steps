@@ -1,16 +1,29 @@
-<!DOCTYPE>
-<html>
-
+<!doctype html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
+          name="viewport">
+    <meta content="ie=edge" http-equiv="X-UA-Compatible">
     <title>VueJS Course</title>
     <link href="main.css" rel="stylesheet" type="text/css"/>
 </head>
 
 <body>
 <div id="app">
-    {{ message }}
+    {{ message }} from master!
+    <begin-hello></begin-hello>
+    <begin-hello></begin-hello>
+    <begin-hello></begin-hello>
 </div>
 
+<div id="app2">
+
+</div>
+
+<!-- Without compiler -->
+<!--<script src="https://cdnjs.cloudflare.com/ajax/libs/vue/3.0.2/vue.runtime.global.js"></script>-->
+<!-- With compiler -->
 <script src="https://unpkg.com/vue@next"></script>
 <script src="app.js"></script>
 </body>
