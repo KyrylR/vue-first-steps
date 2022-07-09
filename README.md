@@ -3,7 +3,7 @@ This is my first steps in learning the Vue.js framework. This is my journey from
 
 # Perspectiv + RGB Playground
 
-A simple box where I can manually apply styles such as transform and rgb:  
+A simple box where I can manually apply styles such as transform and rgb(for more datails see this page):  
 
-![image](https://user-images.githubusercontent.com/89979281/177961927-774f0dc3-9075-4756-a31c-e257f34d07e1.png)
+[Perspectiv + RGB Playground](https://github.com/KyrylR/vue-first-steps/tree/main/Project1_Prespective_Playground)
 ---
